@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 /backend/.env
 /backend/node_modules
+=======
+.env
+node_modules
+>>>>>>> f407e5d (Initial commit for CC branch)
