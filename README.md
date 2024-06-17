@@ -1,23 +1,5 @@
 # Sano : Disease Condition Predictor
-
-# Content List
-- Sano
-- Content List
-- Sano Team
-- Abstract
-- Objectives
-- Project Scope
-  - Machine Learning
-    - Dataset
-    - Machine Learning Model
-    - Result
-  - Cloud Computing
-  - Mobile Development
-- Screenshoots
-- Demo Video
-- Presentation Video
-- Presentation Deck
-
+Introducing Sano, your personal health companion that empowers you to take charge of your well-being.
 # Sano Team
 Team ID : C241-PS439
 
@@ -31,6 +13,11 @@ Team Member :
 | C253D4KY0866  | Muhammad Fauzan Al-Farisi ZA | Cloud Computing |
 | A253D4KY4159  | Nathanael Lucky Hadi Putra   | Mobile Development |
 | A253D4KY3735  | Putu Yudhis Andrean          | Mobile Development |
+
+# Abstract
+# Objectives
+# Project Scope
+# 
 
 
 
