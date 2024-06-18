@@ -1,6 +1,6 @@
 # Result Analysis
+According to the models developed:
 
-Based on the model that have been build it can be conclude that:
-1. Diabetes : For diabetes classification model has 82.35 % for train accuracy and 81.77 % for test accuracy
-2. Heart Disease : For Heart Disease classification model has 91.17 % for train accuracy and 89.02 % for test accuracy
-3. Stroke : For stroke classification model has 82.63 % for train accuracy, and 83.45 % for test accuracy
+1. Diabetes: The classification model achieved an accuracy of 82.35% on the training set and 81.77% on the test set.
+2. Heart Disease: The classification model achieved an accuracy of 91.17% on the training set and 89.02% on the test set.
+3. Stroke: The classification model achieved an accuracy of 82.63% on the training set and 83.45% on the test set.
