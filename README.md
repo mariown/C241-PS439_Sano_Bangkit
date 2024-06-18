@@ -31,9 +31,9 @@ Deploying the backend and ML model on Cloud Run, with the database hosted on Clo
 ### Screenshoot
 ![sano](link image)
 ### Demo Video
-See the Sano application demo [here](). This video showcases our application's features.
+See the Sano application demo [belum ada link](). This video showcases our application's features.
 ### Presentation
-You can watch our team's presentation video and slide by clicking [here]().
+You can watch our team's presentation video and slide by clicking [belum ada link]().
 ## Repository
 Access our project's code, data, and documentation through this link:
 | Path                | Repository Link                                                       |
