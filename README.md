@@ -29,6 +29,7 @@ Our team chose to explore the intersection of healthcare and machine learning be
 Utilize TensorFlow and a curated dataset containing health indicators to develop and evaluate machine learning models for predicting heart disease, stroke, and diabetes. The project will involve comprehensive data preprocessing, including data cleaning, and feature selection. Machine learning algorithms will be implemented and  evaluated using metrics such as accuracy with help of confusion matrix.
 
 ### Mobile Development
+We created a machine learning-based early detection system. This system is equipped with a mobile application that functions as a user interface.  To make it easier for users, this application has an intuitive and user-friendly display, especially when entering health data.  Health data that can be entered through the application includes medical test results and current symptoms.This mobile application was built using Android Studio with the Kotlin programming language.
 
 ### Cloud Computing
 Deploying the backend and ML model on Cloud Run, with the database hosted on Cloud SQL. The backend uses Express.js to provide REST API endpoints auth and manage user authentication and data. The ML model for health predictions is implemented in Flask and integrated into the system for seamless communication between ml model and backend.
