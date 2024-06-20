@@ -50,7 +50,7 @@ Access our project's code, data, and documentation through this link:
 | Path                | Repository Link                                                       |
 | ------------------- | --------------------------------------------------------------------- |
 | Machine Learning    | [ML repository](https://github.com/mariown/Sano-Bangkit2024/tree/ML)  |
-| Mobile Development  | -                                                                     |
+| Mobile Development  | [MD repository](https://github.com/mariown/Sano-Bangkit2024/tree/MD)  |                                                               |
 | Cloud Computing     | [CC repository](https://github.com/mariown/Sano-Bangkit2024/tree/CC)  |
 
 
