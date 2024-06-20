@@ -3,4 +3,4 @@ Fitur Prediksi Risiko Penyakit: Fitur utama dari aplikasi Sano ini adalah mempre
 
 ## Fitur Tambahan:
 Fitur Bahasa: Sano kini tersedia dalam dua bahasa yaitu bahasa inggris dan indonesia. Hal ini memungkinkan pengguna dari luar indonesia untuk lebih mudah memahami informasi yang diberikan dalam bahasa internasional yaitu bahasa inggris.
-Mode Gelap: Sano juga menawarkan mode gelap, yang dapat membantu mengurangi ketegangan mata dan membuat aplikasi lebih nyaman digunakan di malam hari atau di lingkungan dengan pencahayaan yang redup.
+Fitur Mode Gelap: Sano juga menawarkan mode gelap, yang dapat membantu mengurangi ketegangan mata dan membuat aplikasi lebih nyaman digunakan di malam hari atau di lingkungan dengan pencahayaan yang redup.
