@@ -16,7 +16,6 @@ android {
 
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
 
-//        buildConfigField ("String", "API_KEY", "\"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\"")
         buildConfigField ("String", "BASE_URL", "\"https://sano-backend-qr67zmakba-et.a.run.app/\"")
     }
 
