@@ -31,7 +31,9 @@ Deploying the backend and ML model on Cloud Run, with the database hosted on Clo
 ## Documentation
 
 ### Screenshoot
-![sano](link image)
+![](https://github.com/mariown/C241-PS439_Sano_Bangkit/blob/main/Full%20Screenshoot.png)
+
+To access screenshoot folder go through this [link](https://drive.google.com/drive/folders/1ClHb-B4q7sGHZnZ8_9BVIgdQAlSHWPl-?usp=sharing)
 
 ### Demo Video
 See the Sano application demo [belum ada link](). This video showcases our application's features.
