@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="age">Age</string>
+    <string name="ffpg_final_fasting_plasma_glucose_mg_dl">"FFPG (Final Fasting Plasma Glucose) "</string>
+    <string name="fpg_fasting_plasma_glucose_mg_dl">FPG (Fasting Plasma Glucose) mg/dL</string>
+    <string name="hdl_high_density_lipoprotein_mg_dl">HDL (High-Density Lipoprotein) mg/dL</string>
+    <string name="ldl_low_density_lipoprotein">"LDL (Low-Density Lipoprotein) mg/dL "</string>
+    <string name="sbp_systolic_blood_pressure">SBP (Systolic Blood Pressure)</string>
+</resources>

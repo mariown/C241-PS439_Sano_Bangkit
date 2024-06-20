@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/ic_wall"
+    android:fitsSystemWindows="true"
+    tools:context=".views.main.MainActivity"
+    android:padding="20dp">
+
+    <TextView
+        android:id="@+id/app_welcome"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/montserrat"
+        android:text="@string/wellcome"
+        android:textColor="@color/white"
+        android:layout_marginTop="30dp"
+        android:textSize="36sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/app_motto"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/montserrat"
+        android:layout_marginTop="15dp"
+        android:text="@string/app_motto"
+        android:textColor="@color/white"
+        android:textSize="19sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/app_welcome" />
+
+    <ImageView
+        android:id="@+id/iv_started"
+        android:layout_width="350dp"
+        android:layout_height="400dp"
+        android:layout_marginTop="50dp"
+        android:background="@drawable/logo_sano"
+        android:contentDescription="@string/logo_sano"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/btn_login"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="20dp"
+        android:layout_marginEnd="20dp"
+        android:layout_marginBottom="15dp"
+        android:background="@drawable/menu_bg1"
+        android:textColor="@color/black"
+        android:text="@string/login"
+        app:layout_constraintBottom_toTopOf="@+id/btn_register"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/btn_register"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="20dp"
+        android:layout_marginEnd="20dp"
+        android:layout_marginBottom="30dp"
+        android:text="@string/register"
+        android:background="@drawable/menu_bg1"
+        android:textColor="@color/black"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+<!--    <ImageView-->
+<!--        android:id="@+id/imageView"-->
+<!--        android:layout_width="0dp"-->
+<!--        android:layout_height="281dp"-->
+<!--        android:scaleType="fitXY"-->
+<!--        app:layout_constraintBottom_toBottomOf="parent"-->
+<!--        app:layout_constraintEnd_toEndOf="parent"-->
+<!--        app:layout_constraintStart_toStartOf="parent" />-->
+
+<!--    <LinearLayout-->
+<!--        android:layout_width="0dp"-->
+<!--        android:layout_height="0dp"-->
+<!--        android:gravity="center"-->
+<!--        android:orientation="vertical"-->
+<!--        app:layout_constraintBottom_toTopOf="@+id/imageView"-->
+<!--        app:layout_constraintEnd_toEndOf="parent"-->
+<!--        app:layout_constraintHorizontal_bias="1.0"-->
+<!--        app:layout_constraintStart_toStartOf="parent"-->
+<!--        app:layout_constraintTop_toTopOf="parent"-->
+<!--        app:layout_constraintVertical_bias="1.0">-->
+
+<!--        -->
+<!--    </LinearLayout>-->
+
+<!--    <LinearLayout-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="0dp"-->
+<!--        android:orientation="vertical"-->
+<!--        android:gravity="center"-->
+<!--        app:layout_constraintBottom_toBottomOf="@+id/imageView"-->
+<!--        app:layout_constraintEnd_toEndOf="@+id/imageView"-->
+<!--        app:layout_constraintStart_toStartOf="@+id/imageView"-->
+<!--        app:layout_constraintTop_toTopOf="@+id/imageView">-->
+
+<!--        <TextView-->
+<!--            android:id="@+id/app_welcome"-->
+<!--            android:layout_width="380dp"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:alpha="0"-->
+<!--            android:padding="10dp"-->
+<!--            android:text="@string/wellcome"-->
+<!--            android:textColor="@color/black"-->
+<!--            android:layout_marginTop="-55dp"-->
+<!--            android:textSize="25sp"-->
+<!--            android:textStyle="bold"-->
+<!--            tools:alpha="100" />-->
+
+<!--        <TextView-->
+<!--            android:id="@+id/app_motto"-->
+<!--            android:layout_width="wrap_content"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:alpha="0"-->
+<!--            android:padding="16dp"-->
+<!--            android:text="@string/app_motto"-->
+<!--            android:textColor="@color/darkBlue"-->
+<!--            android:textSize="21sp"-->
+<!--            android:textStyle="bold"-->
+<!--            tools:alpha="100" />-->
+
+<!--        <TableLayout-->
+<!--            android:layout_width="match_parent"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:layout_gravity="center"-->
+<!--            android:gravity="center_horizontal"-->
+<!--            android:padding="16dp"-->
+<!--            android:stretchColumns="0,1">-->
+
+<!--            <TableRow android:layout_gravity="center">-->
+
+<!--                <Button-->
+<!--                    android:id="@+id/btn_login"-->
+<!--                    android:layout_width="wrap_content"-->
+<!--                    android:layout_height="wrap_content"-->
+<!--                    android:layout_marginEnd="8dp"-->
+<!--                    android:alpha="0"-->
+<!--                    android:text="@string/login"-->
+<!--                    android:background="@drawable/menu_bg"-->
+<!--                    android:textAllCaps="false"-->
+<!--                    android:textStyle="bold"-->
+<!--                    tools:alpha="100" />-->
+
+<!--                <Button-->
+<!--                    android:id="@+id/btn_register"-->
+<!--                    android:layout_width="wrap_content"-->
+<!--                    android:layout_height="wrap_content"-->
+<!--                    android:alpha="0"-->
+<!--                    android:text="@string/register"-->
+<!--                    android:background="@drawable/menu_bg"-->
+<!--                    android:textAllCaps="false"-->
+<!--                    android:textStyle="bold"-->
+<!--                    tools:alpha="100" />-->
+<!--            </TableRow>-->
+<!--        </TableLayout>-->
+
+<!--    </LinearLayout>-->
+</androidx.constraintlayout.widget.ConstraintLayout>
