@@ -1,4 +1,6 @@
 # Sano : Disease Condition Predictor
+![](https://github.com/mariown/C241-PS439_Sano_Bangkit/blob/main/Sano%20Presentation%20Slides.png)
+
 Introducing Sano, your personal health companion that empowers you to take charge of your well-being.
 ## Sano Team
 Team ID : C241-PS439
@@ -36,7 +38,7 @@ Deploying the backend and ML model on Cloud Run, with the database hosted on Clo
 To access screenshoot folder go through this [link](https://drive.google.com/drive/folders/1ClHb-B4q7sGHZnZ8_9BVIgdQAlSHWPl-?usp=sharing)
 
 ### Demo Video
-See the Sano application demo [belum ada link](). This video showcases our application's features.
+See the Sano application demo [here](https://youtu.be/NwIaUjwmBbM?si=W-ZmGaRhqUb6EZsq). This video showcases our application's features.
 
 ### Presentation
 You can watch our team's presentation video and slide by clicking [belum ada link]().
