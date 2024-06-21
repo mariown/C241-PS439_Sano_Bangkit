@@ -86,4 +86,4 @@ def predict_heart_disease():
     return jsonify({'heart_disease_risk': heart_disease_risk, 'label': label, 'suggestion': suggestion})
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run(debug=True, host="0.0.0.0", port=int(os.environ.get("PORT", 8080)))
