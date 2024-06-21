@@ -6,8 +6,8 @@ This project involves a backend server deployed on Google Cloud Run, with the da
 
 ## Tools
 
-- **REST API with Express.js**: Handles user authentication and data management.
-- **REST API ML Model with Flask**: Connect ML models to express.js.
+- **Express.js**: Handles user authentication and data management.
+- **Flask**: Connect ML models to express.js.
 - **Google Cloud Run**: Serverless deployment for backend and ML model.
 - **Cloud SQL**: Manage database hosting.
 - **Prisma ORM**: Manages database migrations and queries.
@@ -42,7 +42,7 @@ This project involves a backend server deployed on Google Cloud Run, with the da
 Create a `.env` file in the root of your project with the following variables:
 
 ```env
-DATABASE_URL="postgresql://<username>:<password>@/<database>?host=/cloudsql/<connection_name>"
+DATABASE_URL="mysql://<username>:<password>@/<database>?host=/cloudsql/<connection_name>"
 ```
 
 Replace `<username>`, `<password>`, `<database>`, and `<connection_name>` with your Cloud SQL instance details.
