@@ -9,7 +9,7 @@ This project involves a backend server deployed on Google Cloud Run, with the da
 - **REST API with Express.js**: Handles user authentication and data management.
 - **REST API ML Model with Flask**: Connect ML models to express.js.
 - **Google Cloud Run**: Serverless deployment for backend and ML model.
-- **Cloud SQL**: Managed database hosting.
+- **Cloud SQL**: Manage database hosting.
 - **Prisma ORM**: Manages database migrations and queries.
 
 ## Deployment
