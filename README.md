@@ -41,7 +41,7 @@ To access screenshoot folder go through this [link](https://drive.google.com/dri
 See the Sano application demo [here](https://youtu.be/NwIaUjwmBbM?si=W-ZmGaRhqUb6EZsq). This video showcases our application's features.
 
 ### Presentation
-You can watch our team's presentation video and slide by clicking [belum ada link]().
+You can watch our team's presentation video and slide by clicking [here](https://youtu.be/TatLMK7WS78?si=1zgGjflViBmR8XQ5).
 
 ## Repository
 Access our project's code, data, and documentation through this link:
